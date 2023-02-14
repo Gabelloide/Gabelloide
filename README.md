@@ -1,4 +1,4 @@
-<h1> 👋 Hello ! I am Gabelloide, a 18 years old french student in computer science. </h1>
+<h2> 👋 Hello ! I am Gabelloide, a 18 years old french student in computer science. </h2>
 
 ---
 
