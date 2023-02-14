@@ -1,6 +1,8 @@
-### 👋 Hello ! I am Gabelloide, a 18 years old french student in computer science.
+<h1> 👋 Hello ! I am Gabelloide, a 18 years old french student in computer science. </h1>
 
 ---
+
+
 <!--
 **Gabelloide/Gabelloide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
