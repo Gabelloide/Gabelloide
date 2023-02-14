@@ -1,7 +1,10 @@
 <h2> 👋 Hello ! I am Gabelloide, a 18 years old french student in computer science. </h2>
 
-<b> You can see detailled informations here : https://gabelloide.github.io (in development) </b>
+**You can see detailled informations here : https://gabelloide.github.io (in development)**
+
 ---
+
+
 
 
 <!--
