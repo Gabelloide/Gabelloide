@@ -1,4 +1,4 @@
-<h1>👋 Hello ! I am Gabelloide, a 18 years old french student in computer science.</h1>
+<h1>👋 Hello ! I am Olivier (also known as Gabelloide), a 18 years old french student in computer science.</h1>
 💠 Currently working on my portfolio : https://gabelloide.github.io<br>💻 Studying at the University of Paris-Saclay.
 
 
