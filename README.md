@@ -1,6 +1,11 @@
 <h1>👋 Hello ! I am Olivier (also known as Gabelloide), a 19 years old french student in computer science.</h1>
 💠 Currently working on my portfolio : https://gabelloide.github.io<br>💻 Studying at the University of Paris-Saclay.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olivier-gabelle) 
