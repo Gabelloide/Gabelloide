@@ -1,5 +1,5 @@
 <h1>👋 Hello ! I am Olivier (also known as Gabelloide), a 19 years old french student in computer science.</h1>
-💠 Currently working on my portfolio : https://gabelloide.github.io<br>💻 Studying at the University of Paris-Saclay.
+💠 Currently working on a Python project: SpotInsights, a graphical user interface to check your Spotify listening statistics, look at tracks recommandations, and more!<br>💻 Studying at the University of Paris-Saclay.<br>🧧 Check out my portfolio: https://gabelloide.github.io !
 
 ![Snake animation](https://github.com/Gabelloide/Gabelloide/blob/output/github-contribution-grid-snake-dark.svg)
 
