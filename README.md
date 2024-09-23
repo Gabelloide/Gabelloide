@@ -1,5 +1,5 @@
 <h1>👋 Hello ! I am Olivier (also known as Gabelloide), a 20 years old french student in computer science.</h1>
-💻 Studying at the University of Paris-Saclay.<br>🧧 Check out my portfolio: https://gabelloide.github.io !
+💻 Studying at Télécom SudParis.<br>🧧 Check out my portfolio: https://gabelloide.github.io !
 
 💠 A recent project: [Spotinsights](https://gabelloide.github.io/pages/spotinsights.html)
 
